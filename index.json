@@ -1,0 +1,39 @@
+{
+  "product": "hospibank",
+  "published": "2026-11-12",
+  "entries": [
+    {
+      "edition": "cloud-server",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Hospibank-Cloud-Server-Windows-1.0.0.bankupdate",
+      "sha256": "5aecb188adbcda2a2b04b6ef63b930099a8ec7308c9222c84b668ae41217b901",
+      "size": 21014331,
+      "built": "2026-11-12",
+      "notes": "First official release of Hospibank."
+    },
+    {
+      "edition": "connected-server",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Hospibank-Connected-Server-Windows-1.0.0.bankupdate",
+      "sha256": "4ff313309a7e68d36dd09df4b5bad5d0d28630504b6613c1c5dfcf1708fcc4ec",
+      "size": 21204408,
+      "built": "2026-11-12",
+      "notes": "First official release of Hospibank."
+    },
+    {
+      "edition": "server",
+      "os": "windows",
+      "arch": "amd64",
+      "version": "1.0.0",
+      "file": "Hospibank-Server-Windows-1.0.0.bankupdate",
+      "sha256": "4f2247619ac818fbeb6d686ddd6824e5c7c379f93d25efc5508920adf855e20f",
+      "size": 20957086,
+      "built": "2026-11-12",
+      "notes": "First official release of Hospibank."
+    }
+  ]
+}

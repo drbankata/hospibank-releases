@@ -8,10 +8,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Hospibank-Cloud-Server-Windows-1.0.0.bankupdate",
-      "sha256": "7bdded5c13b574106dd5c904f978b7b1b622a4897a6a7c25f30ebbb99cb907de",
-      "size": 21202049,
+      "sha256": "74332e7216ca1d6cc4619014706a3192d45ce0f3b277b9c12dd69f2c2f8f72f9",
+      "size": 21192404,
       "built": "2026-11-22",
-      "notes": "Hospibank 1.0.0, re-issued 2026-11-22 (Phase 49): Word and text files on stays and consultations, the Typist and Documents to type, every hospital document printed with or without letterhead, saved as PDF, downloaded and shared to the patient or the attendant from any computer, with a Given out record."
+      "notes": "Hospibank 1.0.0, re-issued 2026-11-22: Phase 49 (documents and files for everyone, every hospital document out from any computer) and a fix: a hospital licence with Word and no clinic word no longer closes the out-patient screens."
     },
     {
       "edition": "connected-server",
@@ -19,10 +19,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Hospibank-Connected-Server-Windows-1.0.0.bankupdate",
-      "sha256": "51b6ffe7d1c4d26f6db36cf2f9b3fdd6626a183a4e6c1f29c25d5c350d10ac96",
-      "size": 21374997,
+      "sha256": "11b64f0c27286c5074390f3523cd571241526f6ef87eb2ccc250b5d84fa9865f",
+      "size": 21360291,
       "built": "2026-11-22",
-      "notes": "Hospibank 1.0.0, re-issued 2026-11-22 (Phase 49): Word and text files on stays and consultations, the Typist and Documents to type, every hospital document printed with or without letterhead, saved as PDF, downloaded and shared to the patient or the attendant from any computer, with a Given out record."
+      "notes": "Hospibank 1.0.0, re-issued 2026-11-22: Phase 49 (documents and files for everyone, every hospital document out from any computer) and a fix: a hospital licence with Word and no clinic word no longer closes the out-patient screens."
     },
     {
       "edition": "server",
@@ -30,10 +30,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Hospibank-Server-Windows-1.0.0.bankupdate",
-      "sha256": "74911923ec52e7d46fa6b8323777130a0d526b85b27b4cb3b18b724aaf21101a",
-      "size": 21109487,
+      "sha256": "1d81176913cae6523efc8ea979bf1b98cf3fe1ea1b84f20ebd46d6c85ac81dfe",
+      "size": 21102194,
       "built": "2026-11-22",
-      "notes": "Hospibank 1.0.0, re-issued 2026-11-22 (Phase 49): Word and text files on stays and consultations, the Typist and Documents to type, every hospital document printed with or without letterhead, saved as PDF, downloaded and shared to the patient or the attendant from any computer, with a Given out record."
+      "notes": "Hospibank 1.0.0, re-issued 2026-11-22: Phase 49 (documents and files for everyone, every hospital document out from any computer) and a fix: a hospital licence with Word and no clinic word no longer closes the out-patient screens."
     }
   ]
 }

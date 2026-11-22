@@ -1,6 +1,6 @@
 {
   "product": "hospibank",
-  "published": "2026-11-21",
+  "published": "2026-11-22",
   "entries": [
     {
       "edition": "cloud-server",
@@ -8,10 +8,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Hospibank-Cloud-Server-Windows-1.0.0.bankupdate",
-      "sha256": "cf83eac267d9e0f9cd6a185e8412b13856d23128079fa134bcae0d46fd61dd67",
-      "size": 21054472,
-      "built": "2026-11-21",
-      "notes": "Hospibank 1.0.0, re-issued: hospital words everywhere, no Firewall questions, paper pages of a stay, the Indian brand medicine list."
+      "sha256": "7bdded5c13b574106dd5c904f978b7b1b622a4897a6a7c25f30ebbb99cb907de",
+      "size": 21202049,
+      "built": "2026-11-22",
+      "notes": "Hospibank 1.0.0, re-issued 2026-11-22 (Phase 49): Word and text files on stays and consultations, the Typist and Documents to type, every hospital document printed with or without letterhead, saved as PDF, downloaded and shared to the patient or the attendant from any computer, with a Given out record."
     },
     {
       "edition": "connected-server",
@@ -19,10 +19,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Hospibank-Connected-Server-Windows-1.0.0.bankupdate",
-      "sha256": "7b0006822d383c53ebd2adbaf4747af72e44737abbcc52e5127dc3edfee853cf",
-      "size": 21263395,
-      "built": "2026-11-21",
-      "notes": "Hospibank 1.0.0, re-issued: hospital words everywhere, no Firewall questions, paper pages of a stay, the Indian brand medicine list."
+      "sha256": "51b6ffe7d1c4d26f6db36cf2f9b3fdd6626a183a4e6c1f29c25d5c350d10ac96",
+      "size": 21374997,
+      "built": "2026-11-22",
+      "notes": "Hospibank 1.0.0, re-issued 2026-11-22 (Phase 49): Word and text files on stays and consultations, the Typist and Documents to type, every hospital document printed with or without letterhead, saved as PDF, downloaded and shared to the patient or the attendant from any computer, with a Given out record."
     },
     {
       "edition": "server",
@@ -30,10 +30,10 @@
       "arch": "amd64",
       "version": "1.0.0",
       "file": "Hospibank-Server-Windows-1.0.0.bankupdate",
-      "sha256": "5ac8516893fa0d98de3d85c619ff3c00e72cbdb68db41cda5a68e31c7c64b6a6",
-      "size": 20981396,
-      "built": "2026-11-21",
-      "notes": "Hospibank 1.0.0, re-issued: hospital words everywhere, no Firewall questions, paper pages of a stay, the Indian brand medicine list."
+      "sha256": "74911923ec52e7d46fa6b8323777130a0d526b85b27b4cb3b18b724aaf21101a",
+      "size": 21109487,
+      "built": "2026-11-22",
+      "notes": "Hospibank 1.0.0, re-issued 2026-11-22 (Phase 49): Word and text files on stays and consultations, the Typist and Documents to type, every hospital document printed with or without letterhead, saved as PDF, downloaded and shared to the patient or the attendant from any computer, with a Given out record."
     }
   ]
 }
